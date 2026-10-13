@@ -4,3 +4,5 @@ Cargo.lock
 target
 vendor
 vendor.tar
+config.bat
+node_modules
